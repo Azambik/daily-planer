@@ -69,3 +69,27 @@ textarea{
   font-size: 20px;
   transition: all .3s ease-in-out;
 }
+.col,
+.col-2,
+.col-8,
+.col-1{
+  border: solid #000000;
+}
+.unlockedi,
+.lockedi{
+  top: 25px !important;
+}
+.unlock{
+  background-color: green;
+}
+.past{
+  background-color: red;
+}
+.present{
+  background-color: yellow;
+  color: black;
+}
+.future{
+  background-color: white;
+  color: black;
+}
